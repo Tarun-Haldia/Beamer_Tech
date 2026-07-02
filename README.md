@@ -1,4 +1,4 @@
-# 🎤 Beamer Tech - SMB Transaction Voice Agent
+# Beamer Tech - SMB Transaction Voice Agent
 
 A simple, responsive web application that integrates the **ElevenLabs Conversational AI Widget** to provide a voice-enabled financial assistant for Small and Medium Businesses (SMBs).
 
@@ -6,14 +6,14 @@ The application offers a clean user interface where users can interact with an A
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🎙️ Voice-enabled AI assistant
-- 📱 Responsive design for desktop and mobile
-- 🎨 Modern gradient UI
-- ⚡ Lightweight single-page application
-- 🤖 Powered by ElevenLabs Conversational AI
-- 💼 Designed for SMB transaction and financial assistance
+-  Voice-enabled AI assistant
+-  Responsive design for desktop and mobile
+-  Modern gradient UI
+-  Lightweight single-page application
+-  Powered by ElevenLabs Conversational AI
+-  Designed for SMB transaction and financial assistance
 
 ---
 
@@ -27,7 +27,7 @@ The application offers a clean user interface where users can interact with an A
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
